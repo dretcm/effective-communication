@@ -1,7 +1,7 @@
 # Effective-Communication
 practice of effective communication
 
-<h2>Techniques to Awaken Emotions in Other People:</h2>
+<h2>1. Techniques to Awaken Emotions in Other People:</h2>
 
 * Create a space or environment conducive or favorable to establish a
 relationship, avoiding distractions that impede the flow of information
