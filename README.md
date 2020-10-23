@@ -20,3 +20,14 @@ to show empathy, making him vulnerable and trusting you.
 
 * Show vulnerability to work with the emotions of the other person and believe that they can trust you.
 show open, unfiltered conversation, such as "I'm a human who makes mistakes and I learn from them."
+
+
+<h3>Tips on body language:</h3>
+
+* smile for 3 seconds sincerely.
+
+* raise your eyebrows while smiling.
+
+* look into the eyes, blink naturally, or if you can with the eyebrows.
+
+* arms to the sides and open them while you speak, avoid talking with your arms crossed.
