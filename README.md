@@ -8,7 +8,7 @@ relationship, avoiding distractions that impede the flow of information
 and concentration on the conversation.
 
 * Be at the same height as the other person, giving a feeling of equal position,
-of cucliyas with the children, sitting with someone bigger than us, etc.
+of squatting with the children, sitting with someone bigger than us, etc.
 
 * Connect physically and emotionally with the interlocutor, with physical interactions with
 respect, in order to show confidence.
