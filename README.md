@@ -31,3 +31,5 @@ show open, unfiltered conversation, such as "I'm a human who makes mistakes and 
 * look into the eyes, blink naturally, or if you can with the eyebrows.
 
 * arms to the sides and open them while you speak, avoid talking with your arms crossed.
+
+<img src = "https://content.attn.com/sites/default/files/smiles.jpg" width = "350px" heigth = "350px">
