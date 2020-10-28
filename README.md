@@ -47,4 +47,22 @@ show open, unfiltered conversation, such as "I'm a human who makes mistakes and 
 
 <h2>How to have confidence in yourself:</h2>
 
-* you can
+* Be confident to reflect security and others are comfortable with you.
+
+Internal:
+
+* Don't compare yourself to others, and don't base your trust on the opinions of others.
+* your failures do not define you as a loser, learn to forgive yourself <3.
+
+External:
+
+* keep calm and manage your emotions in stressful situations.
+* Take some time to respond, pause, speak slower, take a deep breath, don't act impulsively.
+* feel comfortable and relaxed, to make other people and yourself feel good.
+
+Hemingway: "There is nothing noble about being superior to others. True nobility consists in being superior to your inner self."
+
+<h3>Exercises for shy people:</h3>
+
+
+
