@@ -1,7 +1,9 @@
 # Effective-Communication
 practice of effective communication
 
-<h2>1. Techniques to Awaken Emotions in Other People:</h2>
+<h1>1. first impressions</h1>
+  
+<h2>Techniques to Awaken Emotions in Other People:</h2>
 
 * Create a space or environment conducive or favorable to establish a
 relationship, avoiding distractions that impede the flow of information
@@ -40,3 +42,9 @@ show open, unfiltered conversation, such as "I'm a human who makes mistakes and 
 * yawn.
 * breathe correctly, when you are speaking.
 * have a good posture, do not hunch or push your chest too much.
+
+<h1>2. generate confidence</h1>
+
+<h2>How to have confidence in yourself:</h2>
+
+* you can
