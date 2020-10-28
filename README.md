@@ -33,3 +33,10 @@ show open, unfiltered conversation, such as "I'm a human who makes mistakes and 
 * arms to the sides and open them while you speak, avoid talking with your arms crossed.
 
 <img src = "https://content.attn.com/sites/default/files/smiles.jpg" width = "350px" heigth = "350px">
+
+<h2>Manage a good tone of voice:</h2>
+
+* Avoid using nasal or deep voice.
+* yawn.
+* breathe correctly, when you are speaking.
+* have a good posture, do not hunch or push your chest too much.
