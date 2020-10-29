@@ -62,7 +62,19 @@ External:
 
 Hemingway: "There is nothing noble about being superior to others. True nobility consists in being superior to your inner self."
 
-<h3>Exercises for shy people:</h3>
+<h2>Exercises for shy people:</h2>
+
+* Acknowledge when you feel nervous and for the voices in your head that tell you that you are not good enough, breathe.
+* turns what makes you vulnerable into something positive.
+* listen to the idea of your interlocutor and enrich it (he -> 'it's hot', I -> 'yes it's very hot, I prefer cold').
 
 
+<h2>how to break the ice in a first conversation:</h2>
+
+* ask questions.
+* ask about feelings and emotions.
+* talk to people in line, listen and watch.
+* present yourself.
+
+<h1>3. have a conversation</h1>
 
