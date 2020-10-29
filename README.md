@@ -96,4 +96,5 @@ Hemingway: "There is nothing noble about being superior to others. True nobility
 
 <h2>Lead a conversation without making people feel intimidated:</h2>
 
-<img src = "https://i.pinimg.com/originals/ec/29/48/ec29481a32cb8b4c7280b115972fae03.jpg" >
+
+<img src = "https://i.pinimg.com/originals/ec/29/48/ec29481a32cb8b4c7280b115972fae03.jpg" width = "400px" heigth = "400px">
