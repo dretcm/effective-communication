@@ -62,6 +62,8 @@ External:
 
 Hemingway: "There is nothing noble about being superior to others. True nobility consists in being superior to your inner self."
 
+<img src = "https://i.pinimg.com/originals/ba/59/df/ba59df89f10ba55a112e08afb88af840.gif">
+
 <h2>Exercises for shy people:</h2>
 
 * Acknowledge when you feel nervous and for the voices in your head that tell you that you are not good enough, breathe.
@@ -94,3 +96,4 @@ Hemingway: "There is nothing noble about being superior to others. True nobility
 
 <h2>Lead a conversation without making people feel intimidated:</h2>
 
+<img src = "https://i.pinimg.com/originals/ec/29/48/ec29481a32cb8b4c7280b115972fae03.jpg" >
