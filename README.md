@@ -76,5 +76,21 @@ Hemingway: "There is nothing noble about being superior to others. True nobility
 * talk to people in line, listen and watch.
 * present yourself.
 
-<h1>3. have a conversation</h1>
+<h1>3. Have a conversation</h1>
+
+<h2>Make your conversations fun:</h2>
+
+* First have a ritual which allows you to recharge your energy (a song, memory, exercise, etc).
+* second, make a list of things that excite you or excite you and that make you smile (if I talk to a doctor, I would like to talk about neuroscience; or if I talk to an astrophysicist, I would like to talk about black holes; etc).
+* third, learn to tell good stories, you must print emotions to have ups and downs, mystery, etc.
+
+<h2>Avoid awkward silences:</h2>
+
+* tell an anecdote about the situation where they are, opening phrases (hey this event reminds me when I went to X place ...).
+* repeat the last word that your interlocutor said (interlocutor: hello, I'm a surgeon -> you: surgeon?).
+* ask questions that revive the conversation (you: how did you get to this place? how did you meet?).
+* give a compliment to your interlocutor, avoiding talking about the physical aspect (you: you are very good at drawing).
+* ask anything in desperate cases.
+
+<h2>Lead a conversation without making people feel intimidated:</h2>
 
