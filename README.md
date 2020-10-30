@@ -172,7 +172,7 @@ This exercise will help you plan, prevent and work on different scenarios.
 
 <img src = "https://www.infosmag.com/wp-content/uploads/2019/08/risk_management-e1528963707439.png">
 
-<h1>Group Interactions</h1>
+<h1>4. Group Interactions</h1>
 
 <h2>How to be accepted immediately in any type of group:</h2>
 
@@ -187,5 +187,28 @@ A set of people is a group that has something in common.
 * See everyone present in the eye, involve them in the conversation, interact with them.
 
 
-<h2>how to handle group conversations:</h2>
+<h2>How to handle group conversations:</h2>
 
+* ask questions.
+
+* you can tell stories.
+
+* Give the floor to other people, encourage the participation of people in a random way.
+
+* Give the floor to most people, do not exclude them, because otherwise they will not trust you.
+
+
+<h2>How to involve all members of a group:</h2>
+
+* That everyone has psychological security, this will cause an environment of innovation and creativity, in which everyone can participate and cast crazy ideas.
+
+* with greater psychological security, greater happiness when doing something.
+
+* Do not allow anyone to abuse other people, interrupt them, or get a lot of attention.
+
+* Nice conversations, fluent, and with respect. They will make you increase the levels of satisfaction and security.
+
+<img src = "https://img.freepik.com/free-vector/business-people-following-leader-find-new-market_53876-66088.jpg?size=626&ext=jpg">
+
+
+<img src = "https://i.imgur.com/oDWo13S.png">
