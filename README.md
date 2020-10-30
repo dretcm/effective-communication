@@ -132,4 +132,41 @@ learn to control your nervousness and detect it, you can control it by doing a r
 * Introduce people so that your social circle is bigger and you are more influential.
 
 
+<h2>premortem methodology:</h2>
+
+This methodology has the function of anticipating everything that could go wrong in a project or in a personal matter. I use it all the time to plan worst-case mitigation strategies.
+
+This exercise has 3 sections. Make sure you carry them out to the end and imagine that you are going to start a proposal for a client or are about to venture into a new project.
+
+**Part 1. "Brainstorming session"**
+
+Create a list of possible challenges that could arise in the project.
+
+
+**Part 2. Selecting realistic problems**
+
+Select the 5 challenges that could have the most impact and probability. If you have problems with this part, you can ask yourself the following questions:
+
+What topics should concern you the most?
+
+What problems are most likely to occur?
+
+Which of these challenges do you have control over?
+
+Which one will have the biggest negative impact?
+
+
+**Part 3. Next steps**
+
+Now that you have a prioritized list we can move on to the strategy of looking for solutions to these 5 realistic problems.
+
+Answer the following questions for each problem:
+
+What is the probability of this happening: low or high?
+
+What could be the risk?
+
+What could be a plan to prevent this risk?
+
+This exercise will help you plan, prevent and work on different scenarios.
 
