@@ -105,3 +105,15 @@ Hemingway: "There is nothing noble about being superior to others. True nobility
 
 <h1>4. Presence and Magnetism</h1>
 
+<h2>Get noticed:</h2>
+
+* repeat to yourself "everything will be fine".
+* be congruent with your values.
+* Body language shapes our identity, ... be positive ... everything will be fine ... everything is possible.
+
+<img src = "https://static.platzi.com/media/user_upload/ammy-f8d4abfb-925f-49e6-8094-f920f9fcb651.jpg">
+
+<h2>How to be more persuasive:</h2>
+
+
+
