@@ -115,5 +115,15 @@ Hemingway: "There is nothing noble about being superior to others. True nobility
 
 <h2>How to be more persuasive:</h2>
 
+persuasion: it is the act of getting with reasons and arguments that a person acts or thinks in a certain way.
+
+* listen, understand, and empathize with them.
+* I try to offer them an outlet that is advantageous for them and for yourself.
+* Empathy is an ability to be an influential person.
+* transmit all knowledge to people.
+* projects the things you want to become.
+
+<h2>Control nervousness and control it:</h2>
+
 
 
