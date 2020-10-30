@@ -171,3 +171,21 @@ Answer the following questions for each problem:
 This exercise will help you plan, prevent and work on different scenarios.
 
 <img src = "https://www.infosmag.com/wp-content/uploads/2019/08/risk_management-e1528963707439.png">
+
+<h1>Group Interactions</h1>
+
+<h2>How to be accepted immediately in any type of group:</h2>
+
+A set of people is a group that has something in common.
+
+* First, for the first impression, apply the advice on corportal language.
+
+* Observe the group for a moment and draw conclusions about how you should behave, determine what you have in common with them, what you can contribute and what they can contribute to you.
+
+* apply the advice on how to break the ice in a conversation, be cheerful, laugh, be positive, etc.
+
+* See everyone present in the eye, involve them in the conversation, interact with them.
+
+
+<h2>how to handle group conversations:</h2>
+
