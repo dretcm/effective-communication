@@ -147,13 +147,13 @@ Create a list of possible challenges that could arise in the project.
 
 Select the 5 challenges that could have the most impact and probability. If you have problems with this part, you can ask yourself the following questions:
 
-What topics should concern you the most?
+* What topics should concern you the most?
 
-What problems are most likely to occur?
+* What problems are most likely to occur?
 
-Which of these challenges do you have control over?
+* Which of these challenges do you have control over?
 
-Which one will have the biggest negative impact?
+* Which one will have the biggest negative impact?
 
 
 **Part 3. Next steps**
@@ -162,11 +162,11 @@ Now that you have a prioritized list we can move on to the strategy of looking f
 
 Answer the following questions for each problem:
 
-What is the probability of this happening: low or high?
+* What is the probability of this happening: low or high?
 
-What could be the risk?
+* What could be the risk?
 
-What could be a plan to prevent this risk?
+* What could be a plan to prevent this risk?
 
 This exercise will help you plan, prevent and work on different scenarios.
 
