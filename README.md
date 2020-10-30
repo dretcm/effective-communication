@@ -125,5 +125,11 @@ persuasion: it is the act of getting with reasons and arguments that a person ac
 
 <h2>Control nervousness and control it:</h2>
 
+learn to control your nervousness and detect it, you can control it by doing a ritual (music, grimaces, screaming, etc).
+
+* Wear clothing that identifies so that others will approach you.
+* maps all the people in the place, asking them, what brought them to this place, or what they do, etc. to know what they want.
+* Introduce people so that your social circle is bigger and you are more influential.
+
 
 
