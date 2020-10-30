@@ -212,3 +212,37 @@ A set of people is a group that has something in common.
 
 
 <img src = "https://i.imgur.com/oDWo13S.png">
+
+Remember that to maintain a conversation, it is very important that you give the floor to other people or encourage all members to participate. Getting everyone involved and brainstorming can be challenging.
+
+
+You need them to feel safe. That is, they have psychological security. Here we will work on the guide to give Google security.
+
+
+Let's work this together and answer the following questions:
+
+
+* Do you show interest in the topics that are being discussed?
+
+* Do you show understanding for the issues being discussed?
+
+* Do you talk about your way of working?
+
+* Are you inclusive in decision making?
+
+* Do you show confidence and conviction without appearing inflexible?
+
+
+To work on the first question: **do you show interest in the topics being discussed?**
+Reflect on whether you ask questions when something is unclear, whether you are present and focused in the conversation, whether you give feedback to your team, and whether you maintain eye contact.
+
+Regarding the second question: **do you show understanding for the issues being discussed?**
+Remember that you can work on summarizing or paraphrasing the points that were made earlier. Also, you can validate some comments and avoid pointing people, focus more on solutions.
+
+To work on the third question: **do you talk about your way of working?**
+You can work on this section by sharing with your team, colleagues or schoolmates the way you like to work, setting clear deadlines. You can also help answer your team's questions if you know the answer or are more experienced.
+
+Thinking about the fourth question: **are you inclusive in decision making?**
+You can do many exercises of giving and receiving feedback, you can do pre mortems to plan better. You can also work on your active listening, the goal here is not to interrupt others while they are giving ideas, suggestions or giving opinions. Finally, you can explain and delve more about the decisions you have made and explain how you came to different solutions.
+
+Finally, Google proposes that to be a great leader you can and must show confidence and conviction without appearing inflexible. For this you can generate discussions, practice the exercises and vocalization that I taught you in module 1 and maintain a clear voice type. Inviting others to contradict you and show vulnerability.
