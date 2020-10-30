@@ -140,7 +140,7 @@ This exercise has 3 sections. Make sure you carry them out to the end and imagin
 
 **Part 1. "Brainstorming session"**
 
-Create a list of possible challenges that could arise in the project.
+* Create a list of possible challenges that could arise in the project.
 
 
 **Part 2. Selecting realistic problems**
@@ -170,3 +170,4 @@ Answer the following questions for each problem:
 
 This exercise will help you plan, prevent and work on different scenarios.
 
+<img src = "https://www.infosmag.com/wp-content/uploads/2019/08/risk_management-e1528963707439.png">
